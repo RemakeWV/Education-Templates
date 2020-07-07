@@ -1,0 +1,39 @@
+{
+	"Version": 1,
+	"Name":
+	[
+		{
+			"Language": "en",
+			"Text": "Space Shooter"
+		}
+	],
+	"Description":
+	[
+		{
+			"Language": "en",
+			"Text": "A space shooter example project using object pooling to re-use assets during runtime. Avoiding creating and destroying memory allocation for assets."
+		}
+	],
+	"AssetTypes": [],
+	"SearchTags": [],
+	"ClassTypes": "",
+	"Category": "",
+	"FocusAsset": "",
+	"Thumbnail": "TP_SpaceShooterBP.png",
+	"Screenshots":
+	[
+		"TP_SpaceShooterBP_Preview.png" 
+	],
+	"SortKey": "_1",
+	"AdditionalFeaturePacks":
+	[
+		{
+			"MountName": "Geometry",
+			"DetailLevels":
+			[
+				"Standard",
+				"High"
+			]
+		}
+	]
+}

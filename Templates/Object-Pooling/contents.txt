@@ -1,0 +1,4 @@
+../../../Templates/TP_SpaceShooterBP/manifest.json
+../../../Templates/TP_SpaceShooterBP/Config/config.ini
+../../../Templates/TP_SpaceShooterBP/Media/TP_SpaceShooterBP.png
+../../../Templates/TP_SpaceShooterBP/Media/TP_SpaceShooterBP_Preview.png

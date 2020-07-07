@@ -1,0 +1,4 @@
+../../../Templates/TP_LocalMultiplayerTemplate/manifest.json
+../../../Templates/TP_LocalMultiplayerTemplate/Config/config.ini
+../../../Templates/TP_LocalMultiplayerTemplate/Media/TP_LocalMultiplayerTemplate.png
+../../../Templates/TP_LocalMultiplayerTemplate/Media/TP_LocalMultiplayerTemplate.png

@@ -1,0 +1,4 @@
+../../../Templates/TP_TowerDefenseBP/manifest.json
+../../../Templates/TP_TowerDefenseBP/Config/config.ini
+../../../Templates/TP_TowerDefenseBP/Media/TP_TowerDefenseBP.png
+../../../Templates/TP_TowerDefenseBP/Media/TP_TowerDefenseBP_Preview.png

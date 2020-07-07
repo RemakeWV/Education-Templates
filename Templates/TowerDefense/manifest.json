@@ -1,0 +1,39 @@
+{
+	"Version": 1,
+	"Name":
+	[
+		{
+			"Language": "en",
+			"Text": "Tower Defense"
+		}
+	],
+	"Description":
+	[
+		{
+			"Language": "en",
+			"Text": "A small example project for placing an object at the location of the mouse pointer."
+		}
+	],
+	"AssetTypes": [],
+	"SearchTags": [],
+	"ClassTypes": "",
+	"Category": "",
+	"FocusAsset": "",
+	"Thumbnail": "TP_TowerDefenseBP.png",
+	"Screenshots":
+	[
+		"TP_TowerDefenseBP_Preview.png" 
+	],
+	"SortKey": "_2",
+	"AdditionalFeaturePacks":
+	[
+		{
+			"MountName": "Geometry",
+			"DetailLevels":
+			[
+				"Standard",
+				"High"
+			]
+		}
+	]
+}

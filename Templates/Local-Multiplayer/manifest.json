@@ -1,0 +1,39 @@
+{
+	"Version": 1,
+	"Name":
+	[
+		{
+			"Language": "en",
+			"Text": "Local Multiplayer"
+		}
+	],
+	"Description":
+	[
+		{
+			"Language": "en",
+			"Text": "Local multiplayer - using Game Instance to store persistent data."
+		}
+	],
+	"AssetTypes": [],
+	"SearchTags": [],
+	"ClassTypes": "",
+	"Category": "",
+	"FocusAsset": "",
+	"Thumbnail": "TP_LocalMultiplayer.png",
+	"Screenshots": 
+	[
+		"TP_LocalMultiplayer_Preview.png"
+	],
+	"SortKey": "_1",
+	"AdditionalFeaturePacks":
+	[
+		{
+			"MountName": "Geometry",
+			"DetailLevels":
+			[
+				"Standard",
+				"High"
+			]
+		}
+	]
+}
