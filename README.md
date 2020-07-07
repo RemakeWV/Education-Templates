@@ -1,1 +1,1 @@
-# Education-Templates
+# Teachers-Templates
