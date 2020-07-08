@@ -1,0 +1,4 @@
+../../../Templates/TP_VFX/manifest.json
+../../../Templates/TP_VFX/Config/config.ini
+../../../Templates/TP_VFX/Media/TP_VFX.png
+../../../Templates/TP_VFX/Media/TP_VFX_Preview.png
