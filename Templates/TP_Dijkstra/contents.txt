@@ -1,0 +1,4 @@
+../../../Templates/TP_Dijkstra/manifest.json
+../../../Templates/TP_Dijkstra/Config/config.ini
+../../../Templates/TP_Dijkstra/Media/TP_Dijkstra.png
+../../../Templates/TP_Dijkstra/Media/TP_Dijkstra_Preview.png

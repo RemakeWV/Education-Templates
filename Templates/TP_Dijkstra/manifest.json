@@ -1,0 +1,39 @@
+{
+	"Version": 1,
+	"Name":
+	[
+		{
+			"Language": "en",
+			"Text": "Dijkstra"
+		}
+	],
+	"Description":
+	[
+		{
+			"Language": "en",
+			"Text": "A project for going over Dijkstra - A* pathfinding."
+		}
+	],
+	"AssetTypes": [],
+	"SearchTags": [],
+	"ClassTypes": "",
+	"Category": "",
+	"FocusAsset": "",
+	"Thumbnail": "TP_Dijkstra.png",
+	"Screenshots":
+	[
+		"TP_Dijkstra_Preview.png" 
+	],
+	"SortKey": "_2",
+	"AdditionalFeaturePacks":
+	[
+		{
+			"MountName": "Geometry",
+			"DetailLevels":
+			[
+				"Standard",
+				"High"
+			]
+		}
+	]
+}

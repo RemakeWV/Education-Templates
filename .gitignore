@@ -3,14 +3,14 @@ Templates/RPG/_Custom/*
 Templates/RPG/Intermediate/*
 Templates/RPG/Saved/*
 
-Templates/Local-Multiplayer/Intermediate/*
-Templates/Local-Multiplayer/Saved/*
+Templates/TP_Local-Multiplayer/Intermediate/*
+Templates/TP_Local-Multiplayer/Saved/*
 
-Templates/Dijkstra/Intermediate/*
-Templates/Dijkstra/Saved/*
+Templates/TP_Dijkstra/Intermediate/*
+Templates/TP_Dijkstra/Saved/*
 
-Templates/Object-Pooling/Intermediate/*
-Templates/Object-Pooling/Saved/*
+Templates/TP_Object-Pooling/Intermediate/*
+Templates/TP_Object-Pooling/Saved/*
 
 Templates/Platformer/Intermediate/*
 Templates/Platformer/Saved/*
@@ -21,8 +21,8 @@ Templates/Platformer/.idea/*
 Templates/RPG/Intermediate/*
 Templates/RPG/Saved/*
 
-Templates/TowerDefense/Intermediate/*
-Templates/TowerDefense/Saved/*
+Templates/TP_TowerDefense/Intermediate/*
+Templates/TP_TowerDefense/Saved/*
 
-Templates/VFX/Intermediate/*
-Templates/VFX/Saved/*
+Templates/TP_VFX/Intermediate/*
+Templates/TP_VFX/Saved/*
