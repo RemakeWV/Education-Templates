@@ -1,0 +1,39 @@
+{
+	"Version": 1,
+	"Name":
+	[
+		{
+			"Language": "en",
+			"Text": "AI"
+		}
+	],
+	"Description":
+	[
+		{
+			"Language": "en",
+			"Text": "Contains examples of Blackboard - Nav Smart Links - AI controller - PawnSensing - obstacle avoidance."
+		}
+	],
+	"AssetTypes": [],
+	"SearchTags": [],
+	"ClassTypes": "",
+	"Category": "",
+	"FocusAsset": "",
+	"Thumbnail": "TP_AI.png",
+	"Screenshots":
+	[
+		"TP_AI_Preview.png" 
+	],
+	"SortKey": "_2",
+	"AdditionalFeaturePacks":
+	[
+		{
+			"MountName": "Geometry",
+			"DetailLevels":
+			[
+				"Standard",
+				"High"
+			]
+		}
+	]
+}

@@ -1,0 +1,4 @@
+../../../Templates/TP_AI/manifest.json
+../../../Templates/TP_AI/Config/config.ini
+../../../Templates/TP_AI/Media/TP_AI.png
+../../../Templates/TP_AI/Media/TP_AI_Preview.png
