@@ -12,11 +12,11 @@ Templates/TP_Dijkstra/Saved/*
 Templates/TP_Object-Pooling/Intermediate/*
 Templates/TP_Object-Pooling/Saved/*
 
-Templates/TP_C-Platformer/Intermediate/*
-Templates/TP_C-Platformer/Saved/*
-Templates/TP_C-Platformer/.vs/*
-Templates/TP_C-Platformer/Binaries/*
-Templates/TP_C-Platformer/.idea/*
+Templates/TP_Cpp/Intermediate/*
+Templates/TP_Cpp/Saved/*
+Templates/TP_Cpp/.vs/*
+Templates/TP_Cpp/Binaries/*
+Templates/TP_Cpp/.idea/*
 
 Templates/RPG/Intermediate/*
 Templates/RPG/Saved/*

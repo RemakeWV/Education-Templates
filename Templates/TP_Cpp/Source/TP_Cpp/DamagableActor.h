@@ -19,7 +19,7 @@ public:
 	void OnTakeAttack();
 
 	UPROPERTY(EditAnywhere, Category = "Attack")
-	bool isAttackable{true};
+	bool isAttackable = true;
 
 protected:
 	// Called when the game starts or when spawned

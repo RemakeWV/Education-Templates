@@ -16,7 +16,7 @@ public:
 	AFPSCharacter();
 
 	UPROPERTY(EditAnywhere, Category = "Weapon")
-	float range{ 1000 };
+	float range = 1000;
 
 	UFUNCTION(BlueprintCallable, Category = "Weapon")
 	void FireWeapon();
