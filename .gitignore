@@ -3,3 +3,4 @@ Templates/**/Saved/**
 Templates/**/.vs/*
 Templates/**/Binaries/*
 Templates/**/.idea/*
+*.sln
