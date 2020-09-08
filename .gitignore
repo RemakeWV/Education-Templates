@@ -4,3 +4,4 @@ Templates/**/.vs/*
 Templates/**/Binaries/*
 Templates/**/.idea/*
 *.sln
+Templates/**/Plugins/Developer/*
