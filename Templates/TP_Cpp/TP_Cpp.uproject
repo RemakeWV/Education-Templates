@@ -11,6 +11,11 @@
 			"AdditionalDependencies": [
 				"Engine"
 			]
+		},
+		{
+			"Name": "CustomModule",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
 		}
 	]
 }
