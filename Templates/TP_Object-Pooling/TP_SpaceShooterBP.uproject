@@ -3,5 +3,20 @@
 	"EngineAssociation": "4.25",
 	"Category": "",
 	"Description": "",
-	"Modules": []
+	"Plugins": [
+		{
+			"Name": "HoudiniEngine",
+			"Enabled": false
+		},
+		{
+			"Name": "SteamVR",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win32",
+				"Win64",
+				"Linux",
+				"Mac"
+			]
+		}
+	]
 }
